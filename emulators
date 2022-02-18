@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Bakbak One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Days One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Baumans' rel='stylesheet'>
+<style>
+body {
+  background-color: #2a303d;
+}
+p {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #FF00FF, 0 0 5px blue, 0 0 5px red, /*Retro look*/ -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+p {
+  font-family: 'Days One';font-size: 22px;
+  color: white;
+  font-size: 48px;
+}
+p2 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #FF00FF , 0 0 5px blue, 0 0 5px red, /*Retro look*/ -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+p2 {
+  font-family: Trebuchet MS;
+  color: white;
+  font-size: 30px;
+}
+
+p3 {
+  font-family: Trebuchet MS;
+  color: white;
+  font-size: 25px;
+}
+
+p3 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #FF00FF , 0 0 5px blue, 0 0 5px red, /*Retro look*/ -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+pf {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #FF00FF, 0 0 5px blue, 0 0 5px red, /*Retro look*/ -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+pf {
+  font-family: Trebuchet MS;
+  color: white;
+  font-size: 20px;
+}
+
+.topnav {
+  font-family: 'Bakbak One';font-size: 20px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 19px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #242424;
+  transition: background-color .3s;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #d400ff;
+  color: black;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  background-color: rgba(255, 0, 255, 0.2);
+  text-align: center;
+}
+</style>
+</head>
+<body1>
+<div class="topnav">
+  <a href="https://nova-games.w3spaces.com/home.html">Home</a>
+  <a href="https://nova-games.w3spaces.com/changelog.html">Changelog</a>
+  <a class="active"href="https://nova-games.w3spaces.com/emulators.html">Emulators</a>
+  <a href="https://nova-games.w3spaces.com/roms.html">ROM Downloads</a>
+  <a href="https://nova-games.w3spaces.com/about.html">About Nova</a>
+</div>
+<div style="padding-left:16px">
+</div>
+
+</body1>
+<body2>
+<center>
+<p>Emulators</p>
+<p2>The star of the show! Download some ROMs from the button above title "ROM Downloads" and import them into our emulators to play!</p2>
+<br><br><br>
+<p2>However, it appears we have not added anything here yet! Please wait until a new update releases where we do include something here!</p2>
+<div class="footer">
+  <pf>Brought to you by the students of MMS.</pf>
+</div>
+</style>
+</div>
+</body2>
+</html>
