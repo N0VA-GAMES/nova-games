@@ -1,0 +1,111 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Bakbak One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Days One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Baumans' rel='stylesheet'>
+<style>
+body {
+  background-color: #2a303d;
+}
+p {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #FF00FF, 0 0 5px blue, 0 0 5px red, /*Retro look*/ -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+p {
+  font-family: 'Days One';font-size: 22px;
+  color: white;
+  font-size: 48px;
+}
+p2 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #FF00FF , 0 0 5px blue, 0 0 5px red, /*Retro look*/ -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+p2 {
+  font-family: Trebuchet MS;
+  color: white;
+  font-size: 30px;
+}
+
+p3 {
+  font-family: Trebuchet MS;
+  color: white;
+  font-size: 25px;
+}
+
+p3 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #FF00FF , 0 0 5px blue, 0 0 5px red, /*Retro look*/ -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+p4 {
+  font-family: Days One;
+  color: white;
+  font-size: 30px;
+}
+
+p4 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #FF00FF , 0 0 5px blue, 0 0 5px red, /*Retro look*/ -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.topnav {
+  font-family: 'Bakbak One';font-size: 20px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 19px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #242424;
+  transition: background-color .3s;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #d400ff;
+  color: black;
+}
+</style>
+</head>
+<body1>
+<div class="topnav">
+  <a href="https://nova-games.w3spaces.com/home.html">Home</a>
+  <a href="https://nova-games.w3spaces.com/changelog.html">Changelog</a>
+  <a href="https://nova-games.w3spaces.com/emulators.html">Emulators</a>
+  <a href="https://nova-games.w3spaces.com/roms.html">ROM Downloads</a>
+  <a class="active"href="https://nova-games.w3spaces.com/about.html">About Nova</a>
+</div>
+<div style="padding-left:16px">
+</div>
+
+</body1>
+<body2>
+<center>
+<p>About Nova</p>
+<p2>This website is intended to allow people to enjoy their favorite retro games whenever they want. However, we are not responsible for misuse of the site. If you get in trouble, that's kinda on you, buddy. Because people might disobey what we just said in the previous sentence, like PLAYHYDRA, Nova will switch websites any time the website gets blocked as to keep the emulators and ROMs archived.
+On a legal note, however. If you'd like to see the Terms and Conditions (if you're so inclined) click <a href="https://nova-games.w3spaces.com/terms.html">here.</a></p2>
+<p>Feedback</p>
+<p2>We care about feedback so if you're willing to request certain ROMs to be added, please let us know! Along with that, please let us know if you have any requests for the website itself, as you know, the website is still in its early stages so if you think sections need some face lifts, go right ahead!
+</p2>
+<p>Credits</p>
+<center><p4>Emulator Creators:</p4></center>
+<p2>FCEUX (of the NES/FamiCom Emulator)</p2>
+<center><p2>tjwei, JASmith79, and jancborchardt (of the SNES Emulator)</p2>
+<p2>
+</center>
+<center><p4>Website Builders:</p4></center>
+<p2>Made with love and care by the Nova Team and the students at MMS that make this possible</p2>
+</div>
+</body2>
+</html>
